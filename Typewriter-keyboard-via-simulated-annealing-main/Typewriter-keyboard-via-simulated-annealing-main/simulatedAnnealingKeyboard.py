@@ -6,8 +6,7 @@ import copy
 import numpy as np
 import random
 
-# dictionary of 26 items to represent Keyboard, the array below represents the QUERTY keyboard 
-# although, I made the keys into a grid instead of maintaining the ratio of a normal keyboard (need to fix)
+
 
 print("running...")
 
